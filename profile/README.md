@@ -9,7 +9,7 @@
 
 ### Your AI agent, logged in to the apps that never built an API.
 
-[Website](https://cotlet.dev) · [Integrations](https://cotlet.dev/integrations) · [Docs](https://cotlet.dev/docs) · [Pricing](https://cotlet.dev/pricing) · [Request access](https://cotlet.dev/signup)
+[Website](https://cotlet.dev) · [Integrations](https://cotlet.dev/integrations) · [Docs](https://cotlet.dev/docs) · [Pricing](https://cotlet.dev/pricing) · [Request access](https://cotlet.dev/signup) · [X](https://x.com/cotletdev)
 
 </div>
 
@@ -27,4 +27,4 @@ claude mcp add --transport http cotlet https://cotlet.dev/mcp/v1 \
 
 📘 Start here: **[cotletdev/cotlet](https://github.com/cotletdev/cotlet)**, the full overview, catalog, use cases and FAQ.
 
-<sub>Cotlet is unofficial and not affiliated with the apps it integrates. Run by Take Group sp. z o.o., Katowice, Poland. Contact: contact@cotlet.dev</sub>
+<sub>Cotlet is unofficial and not affiliated with the apps it integrates. Run by Take Group sp. z o.o., Katowice, Poland. Contact: contact@cotlet.dev · X: [@cotletdev](https://x.com/cotletdev)</sub>
